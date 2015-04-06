@@ -1,3 +1,5 @@
+# UPS Connector
+
 Obtain tracking information for your packages, as well as create and print shipping labels.
 
 Note: This version has primarily been tested with US-based addresses.
